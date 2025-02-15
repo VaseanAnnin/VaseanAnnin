@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VaseanAnnin
 - 👀 I’m interested in Game Development and software engineering
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Game projects
-- 📫 How to reach me. Email: vaseanannin@gmail.com
+- 🌱 I’m currently learning GraphQL
+- 💞️ I’m looking to collaborate on Game projects, and full stack applications
+- 📫 How to reach me. Email: vaseanannin@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was a piano teacher freshman year of highschool
 
